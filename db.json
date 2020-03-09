@@ -1,1 +1,14 @@
-
+{
+  category:[
+    {
+      "id": "category0001",
+      [
+      {
+      "itemCode": "item00008",
+      "itemName": "ストレッチショートブーツ",
+      "sellingPrice": "10450"
+      }
+      ]
+    }
+  ]
+}
