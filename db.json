@@ -1,14 +1,19 @@
 {
-  category:[
+  category0001:[
     {
-      "id": "category0001",
-      [
-      {
       "itemCode": "item00008",
       "itemName": "ストレッチショートブーツ",
       "sellingPrice": "10450"
-      }
-      ]
+    },
+    {
+      "itemCode": "item00007",
+      "itemName": "SERRANO / セラーノ",
+      "sellingPrice": "8800"
+    },
+    {
+      "itemCode": "item00008",
+      "itemName": "ストレッチショートブーツ",
+      "sellingPrice": "10450"
     }
   ]
 }
